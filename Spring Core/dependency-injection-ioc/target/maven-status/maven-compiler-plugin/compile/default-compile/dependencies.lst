@@ -1,0 +1,8 @@
+classpath:/Users/avyukt/.m2/repository/org/springframework/spring-context/6.2.19/spring-context-6.2.19.jar	1359997:1780938627000
+classpath:/Users/avyukt/.m2/repository/org/springframework/spring-aop/6.2.19/spring-aop-6.2.19.jar	420259:1780938627000
+classpath:/Users/avyukt/.m2/repository/org/springframework/spring-beans/6.2.19/spring-beans-6.2.19.jar	891594:1780938627000
+classpath:/Users/avyukt/.m2/repository/org/springframework/spring-core/6.2.19/spring-core-6.2.19.jar	1983775:1780938627000
+classpath:/Users/avyukt/.m2/repository/org/springframework/spring-jcl/6.2.19/spring-jcl-6.2.19.jar	24495:1780938627000
+classpath:/Users/avyukt/.m2/repository/org/springframework/spring-expression/6.2.19/spring-expression-6.2.19.jar	321254:1780938627000
+classpath:/Users/avyukt/.m2/repository/io/micrometer/micrometer-observation/1.15.12/micrometer-observation-1.15.12.jar	76264:1780898610000
+classpath:/Users/avyukt/.m2/repository/io/micrometer/micrometer-commons/1.15.12/micrometer-commons-1.15.12.jar	49155:1780898609000

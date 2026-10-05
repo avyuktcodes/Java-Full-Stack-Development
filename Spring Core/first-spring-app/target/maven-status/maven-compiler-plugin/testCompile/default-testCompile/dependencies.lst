@@ -1,0 +1,11 @@
+classpath:/Users/avyukt/Java-Modules-and-Practicals-main/Spring Core/first-spring-app/target/classes	2:bc55ed1086b09a9c0ceef21c31cb4296f5c27e40fe9119f7c4b621515bdf4e8e
+classpath:/Users/avyukt/.m2/repository/org/springframework/spring-context/6.2.19/spring-context-6.2.19.jar	1359997:1780938627000
+classpath:/Users/avyukt/.m2/repository/org/springframework/spring-aop/6.2.19/spring-aop-6.2.19.jar	420259:1780938627000
+classpath:/Users/avyukt/.m2/repository/org/springframework/spring-beans/6.2.19/spring-beans-6.2.19.jar	891594:1780938627000
+classpath:/Users/avyukt/.m2/repository/org/springframework/spring-core/6.2.19/spring-core-6.2.19.jar	1983775:1780938627000
+classpath:/Users/avyukt/.m2/repository/org/springframework/spring-jcl/6.2.19/spring-jcl-6.2.19.jar	24495:1780938627000
+classpath:/Users/avyukt/.m2/repository/org/springframework/spring-expression/6.2.19/spring-expression-6.2.19.jar	321254:1780938627000
+classpath:/Users/avyukt/.m2/repository/io/micrometer/micrometer-observation/1.15.12/micrometer-observation-1.15.12.jar	76264:1780898610000
+classpath:/Users/avyukt/.m2/repository/io/micrometer/micrometer-commons/1.15.12/micrometer-commons-1.15.12.jar	49155:1780898609000
+classpath:/Users/avyukt/.m2/repository/junit/junit/4.13.2/junit-4.13.2.jar	384581:1613233912000
+classpath:/Users/avyukt/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar	45024:1341868082000
