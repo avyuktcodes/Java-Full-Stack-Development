@@ -86,7 +86,7 @@ Class Assignment1/
 | # | Page Name | URL | Contents Included |
 |---|---|---|---|
 | 1 | **Home Page** | `http://localhost:8080/` | Project title (Student Management System), welcome message, Spring Boot intro, top navbar |
-| 2 | **Project Creator** | `http://localhost:8080/about.html` | Creator name (Rahul Kumar), Course, College, Year, Skills badges, bio |
+| 2 | **Project Creator** | `http://localhost:8080/about.html` | Creator name (Avyukt Kumar), Course, College, Year, Skills badges, bio |
 | 3 | **Product Page** | `http://localhost:8080/product.html` | Product name, description, purpose, technologies used, target users |
 | 4 | **Features Page** | `http://localhost:8080/features.html` | Checklist of features: Add, View, Update, Delete, Search Student, and Reports |
 | 5 | **Contact Page** | `http://localhost:8080/contact.html` | Contact card with creator name, email, phone, college, and location |
